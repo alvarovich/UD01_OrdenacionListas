@@ -52,7 +52,7 @@ UD01_OrdenacionListas/
 
 1. Clona el repositorio:
    ```bash
-   git clone [URL del repositorio]
+   git clone https://github.com/alvarovich/UD01_OrdenacionListas.git
    ```
 2. Abre la carpeta del proyecto en IntelliJ IDEA.
 3. Abre el fichero del algoritmo que quieras probar (por ejemplo `01_QuickSort.kt`).
@@ -66,11 +66,3 @@ No es necesario ejecutar `GenerarDatos.kt` antes: los algoritmos leen las listas
 1. La lista original (vehículos y números).
 2. La lista ordenada (A-Z y de menor a mayor).
 3. El tiempo de ejecución en nanosegundos.
-
-## Resultados
-
-Los tiempos obtenidos, las capturas de las ejecuciones y la comparación completa están en el informe PDF incluido en este repositorio.
-
-## Informe
-
-El informe técnico es [`UD01_OrdenacionListas_NombreApellido.pdf`](UD01_OrdenacionListas_NombreApellido.pdf) e incluye la explicación de cada algoritmo, la implementación, los resultados, las conclusiones y la bibliografía.
